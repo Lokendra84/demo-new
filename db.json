@@ -1,27 +1,15 @@
 {
-    "posts": [{
-        "id": 1,
-        "title": "json-server",
-        "author": "lokendra"
-    }],
-    "comments": [{
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-    }],
-    "profile": {
-        "name": "typicode"
-    },
-    "sales": [{
-            "id": 1,
-            "Product-name": "json-server",
-            "product-img-rul": "../images/test.jpeg"
-        },
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "lokendra"
-        }
+  
+  "sales": [{
+          "id": 1,
+          "Product-name": "json-server",
+          "product-img-rul": "../images/test.jpeg"
+      },
+      {
+          "id": 2,
+          "title": "json-server",
+          "author": "lokendra"
+      }
 
-    ]
+  ]
 }
