@@ -1,15 +1,108 @@
 {
-  
-  "sales": [{
-          "id": 1,
-          "Product-name": "json-server",
-          "product-img-rul": "../images/test.jpeg"
-      },
-      {
-          "id": 2,
-          "title": "json-server",
-          "author": "lokendra"
-      }
+    "sale": [{
+            "id": 1,
+            "Product-name": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner3.jpg"
+        },
+        {
+            "id": 3,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner4.jpg"
+        },
+        {
+            "id": 4,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner6.jpg"
+        },
+        {
+            "id": 5,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bsigsale-banner7.jpg"
+        },
+        {
+            "id": 6,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner2.jpg"
+        },
+        {
+            "id": 7,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner5.jpg"
+        },
+        {
+            "id": 8,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner8.jpg"
+        },
+        {
+            "id": 9,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner4.jpg"
+        }
+    ],
+    "saleDay": [{
+            "id": 1,
+            "Product-name": "json-server",
+            "imgurl": "/_nuxt/assets/images/banner9.jpg"
+        },
+        {
+            "id": 2,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/banner10.jpg"
+        },
+        {
+            "id": 3,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/banner11.jpg"
+        }
 
-  ]
+    ],
+    "samsungSale": [{
+            "id": 1,
+            "Product-name": "json-server",
+            "imgurl": "/_nuxt/assets/images/banner10.jpg"
+        },
+
+        {
+            "id": 3,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner4.jpg"
+        },
+        {
+            "id": 4,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner6.jpg"
+        },
+        {
+            "id": 5,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bsigsale-banner7.jpg"
+        },
+        {
+            "id": 6,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner2.jpg"
+        },
+        {
+            "id": 7,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner5.jpg"
+        },
+        {
+            "id": 8,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner8.jpg"
+        },
+        {
+            "id": 9,
+            "title": "json-server",
+            "imgurl": "/_nuxt/assets/images/bigsale-banner4.jpg"
+        }
+
+    ]
 }
