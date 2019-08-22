@@ -2,12 +2,12 @@
     "sale": [{
             "id": 1,
             "Product-name": "json-server",
-            "imgurl": "/_nuxt/assets/images/bigsale-banner1.jpg"
+            "imgurl": "/_nuxt/img/bigsale-banner1.jpg"
         },
         {
             "id": 2,
             "title": "json-server",
-            "imgurl": "/_nuxt/assets/images/bigsale-banner3.jpg"
+            "imgurl": "/_nuxt/img/bigsale-banner3.jpg"
         },
         {
             "id": 3,
